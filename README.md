@@ -1,16 +1,24 @@
-# ecommerce_app
 
-A new Flutter project.
+# Ecommerce_app
+Online shopping app using flutter with login , sign up and favourite page  . profile page can switch to dark mode from it . home , product and cart screens with search bar  
 
-## Getting Started
+##  Features
+* Sign up /login with firebase
+* Remember me
+* Dark mode
+* Search bar
+* Favorites (firebase)
+* Cart
+soon:
+ * payming history 
+ * profile image
+ * edit profile name
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Plugins
+* Firebase
+* dio "http request(api)"
+* shared_preferences (dark mode)
+* provider state mangment "soon"
+## Setup
+Setup flutter in ur desktop with android studio/vs code then get clone and setup firebase
+finaly copy firebase startup files and paste it in the project files

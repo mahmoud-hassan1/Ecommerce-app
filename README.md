@@ -9,7 +9,7 @@ Online shopping app using flutter with login , sign up and favourite page  . pro
 * Search bar
 * Favorites (firebase)
 * Cart
-*soon:
+# soon:
  * payming history 
  * profile image
  * edit profile name
